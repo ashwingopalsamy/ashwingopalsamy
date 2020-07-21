@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Coimbatore,India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwiii" alt="ashwiii" /> </p>
 
-- 🔭 I’m currently working on **College Billing System**
+- 🔭 I’m currently upskilling on **Web Development, Cloud Technologies** and also coding on various platforms subsequently.
 
 - 👨‍💻 My portfolio is available at [ashu.me](ashu.me)
 
