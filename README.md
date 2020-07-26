@@ -19,13 +19,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwiii" alt="ashwiii" /> </p>
 
-- 👨‍💻 My portfolio is available at [https://www.ashu.me](ashu.me)
+- 👨‍💻 My portfolio is available at **ashu.me**
 
-- 📝 You can find my works on [https://www.ashwxn.tech](ashwxn.tech)
+- 📝 You can find my works on **ashwxn.tech**
 
 - 💬 Ask me about **Java | Python | Go | Cloud | JS**
 
-- 📫 Get linked with me at **https://www.linkedin.com/in/ashwin2125/**
+- 📫 Get linked with me at **linkedin.com/in/ashwin2125/**
 
 - ⚡ Fun fact **Quality over Quantity**
 
