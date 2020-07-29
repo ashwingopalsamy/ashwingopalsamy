@@ -36,12 +36,3 @@ Hi, I'm Ashwin Gounder, a  self-taught software developer from India.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwiii&layout=compact&theme=radical" />
 </a>
-
-<a href="https://github.com/ashwiii/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwiii&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/ashwiii/ashwiii.github.io">	
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->	
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwiii&repo=ashwiii.github.io&theme=radical" />	
-</a>
