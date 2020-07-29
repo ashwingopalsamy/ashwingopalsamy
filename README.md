@@ -1,13 +1,13 @@
 ### Hi there, I'm [Ashwin!](https://ashwiii.github.io) 👋
 
 <a href="https://codesandbox.io/u/ashwxn">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Ashwin Gounder | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/ashwin_gounder">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Ashwin Gounder | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/ashwxn">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Ashwin's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -18,7 +18,7 @@ Hi, I'm Ashwin Gounder, a  self-taught software developer from India.
 - 🔭 I’m currently studying final year at Hindusthan College of Engineering and Technology,Coimbatore.
 - 🌱 I’m currently learning Javascript & Web development
 - 👯 I'm actively looking up for a career in Information Technology
-- 💬 Ask me about anything [here](https://github.com/ashwiii/ashw/issues)
+- 💬 Ask me about anything [here](https://github.com/ashwiii/ashwii/issues)
 
 **Languages and Tools:**  
 
@@ -39,5 +39,5 @@ Hi, I'm Ashwin Gounder, a  self-taught software developer from India.
 
 <a href="https://github.com/ashwiii/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwiii&repo=ashwiii/github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwiii&repo=github-readme-stats&theme=radical" />
 </a>    
