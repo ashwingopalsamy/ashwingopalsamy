@@ -18,7 +18,7 @@ Hi, I'm Ashwin Gounder, a  self-taught software developer from India.
 - 🔭 I’m currently studying final year at Hindusthan College of Engineering and Technology,Coimbatore.
 - 🌱 I’m currently learning Javascript & Web development
 - 👯 I'm actively looking up for a career in Information Technology
-- 💬 Ask me about anything [here](https://github.com/ashwiii/ashwii/issues)
+- 💬 Ask me about anything [here](https://wa.me/918344315137)
 
 **Languages and Tools:**  
 
