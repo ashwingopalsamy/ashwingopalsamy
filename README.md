@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashwin2125/**
 
-- ⚡ Fun fact **Quality over Quantity**
+- ⚡ Straight fact **Quality over Quantity**
 
-### Blogs posts
+### Skills :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
