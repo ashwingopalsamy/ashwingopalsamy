@@ -30,7 +30,7 @@
 <a href="https://dev.to/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://twitter.com/ashwin_gounder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashwin_gounder" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ashwin2125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashwin2125" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/ashwin-gounder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashwin-gounder" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/ashwin-gounder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashwin-gounder" height="30" width="30" /></a> 
 <a href="https://codesandbox.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://kaggle.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://fb.com/ashwinyaal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashwinyaal" height="30" width="30" /></a>
