@@ -17,7 +17,9 @@
 
 - ⚡ Straight fact **Quality over Quantity**
 
-[![Spotify](https://ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
+### Spotify Now Playing 🎧
+[<img src="https://novatorem.ashwiii.vercel.app/api/spotify-playing" alt="Ashwin's Spotify Playing" width="350"/>]
+(https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
 
 ### Skills :
 <!-- BLOG-POST-LIST:START -->
