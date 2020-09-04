@@ -1,4 +1,4 @@
-<h1 align="center">Hey devs, I'm Ashwin.G<br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">  </h1>
+<h1 align="center">Hey devs<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Ashwin.G </h1>
 <h3 align="center">Full-stack developer from Coimbatore,India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
