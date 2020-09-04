@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ashwin.G</h1>
-<h3 align="center">Full-stack developer from Coimbatore,India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 align="center">Full-stack developer from Coimbatore,India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwiii" alt="ashwiii" /> </p>
 
