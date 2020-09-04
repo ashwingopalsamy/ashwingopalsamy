@@ -18,14 +18,14 @@
 - ⚡ Straight fact **Quality over Quantity**
 
  ### Spotify Now Playing : 🎧<table width="50%"> 
-<table width="50%"> 
+<table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
      
 &nbsp; <br> [![Spotify](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
 <br>
 <br>
-
+</tr>
 ### Skills :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
