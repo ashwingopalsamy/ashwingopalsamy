@@ -16,10 +16,14 @@
 - 📫 Connect with me on **https://www.linkedin.com/in/ashwin2125/**
 
 - ⚡ Straight fact **Quality over Quantity**
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
 
-### Spotify Now Playing 🎧
-[![Spotify](https://ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
-(https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
+  </td>
+  <td width="50%">
 
 ### Skills :
 <!-- BLOG-POST-LIST:START -->
