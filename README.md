@@ -1,6 +1,9 @@
-<h1 align="center">Hey devs👋, I'm Ashwin.G<br> </h1>
+<h1 align="center">Hey devs<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashwin.G<br> </h1>
 <h3 align="center">Full-stack developer from Coimbatore,India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<h4 align="center">I ❤ Code</h4>
+
+
+[![Twitter: Ashwin Gounder](https://img.shields.io/twitter/follow/ashwin_gounder?style=social)](https://twitter.com/ashwin_gounder)
+[![Linkedin: Ashwin Gounder](https://img.shields.io/badge/-ashwin2125-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin2125/)](https://www.linkedin.com/in/ashwin2125/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > A little more about me in my way...  
@@ -16,7 +19,7 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
 }
 ```
 
-### <img src = "https://media.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif" width="30" height="30" > Currently vibing to : 
+### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Currently vibing to : 
 <table width="100%"> 
  
   <tr>
