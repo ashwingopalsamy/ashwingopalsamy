@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ashwin.G</h1>
-<h3 align="center">Full-stack developer from Coimbatore,India</h3>
+<h3 align="center">Full-stack developer from Coimbatore,India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwiii" alt="ashwiii" /> </p>
 
@@ -23,6 +23,19 @@
   <td width="100%">
      
 &nbsp; <br> [![Spotify](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me in my way...  
+
+```javascript
+const ashwin = {
+  pronouns: "he" | "him",
+  code: [Javascript, Java, Go, Python, C++],
+  tools or services: [ AWS | Google Cloud | Azure | Linux | MySQL | Git | Jenkins | Unity 3D
+Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CRM],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on full-stack development"
+}
+```
 
 
 ### Skills :
