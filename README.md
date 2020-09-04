@@ -17,8 +17,9 @@
 
 - ⚡ Straight fact **Quality over Quantity**
 
- ### Spotify Now Playing : 🎧<table width="50%"> 
+### Spotify Now Playing : 🎧
 <table width="100%"> 
+ 
   <tr>
   <td width="100%">
      
