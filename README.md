@@ -18,7 +18,7 @@
 - ⚡ Straight fact **Quality over Quantity**
 
 ### Spotify Now Playing 🎧
-[![Spotify](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
+[![Spotify](https://ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
 (https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
 
 ### Skills :
