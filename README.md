@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer from Coimbatore,India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me in my way...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > A little more about me in my way...  
 
 ```javascript
 const ashwin = {
@@ -15,13 +15,13 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
 }
 ```
 
-### Spotify Now Playing : 🎧
+### <img src = "https://media.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif" width="30" height="30" > Currently vibing to : 
 <table width="100%"> 
  
   <tr>
   <td width="100%">
      
-&nbsp; <br> [![Spotify](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
+&nbsp; <br> [![Music Player](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
 
 
 
