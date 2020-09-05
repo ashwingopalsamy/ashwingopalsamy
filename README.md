@@ -30,10 +30,10 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
   <tr><td width="%100">
   
 &nbsp; [![Music Player](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="100" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="110" />
 </tr></td> </table>
 
-### Connect with me through : 
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Connect with me through : 
 <table width="100%">
 <p align = "center"><a href="https://codepen.io/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://dev.to/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashwxn" height="30" width="30" /></a>
