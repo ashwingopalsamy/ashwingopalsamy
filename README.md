@@ -41,11 +41,17 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
   <p align = "center">
   <br>
   <br>
   <br>
     <br>
+  <br>
+  <br>
+  <br>
   <br>
   <br><br>
   <br>
@@ -60,7 +66,6 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
 <a href="https://fb.com/ashwinyaal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashwinyaal" height="30" width="30" /></a>
 <a href="https://instagram.com/_a.s_h.w_i.n_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_a.s_h.w_i.n_" height="30" width="30" /></a>
 <a href="https://dribbble.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ashwxn" height="30" width="30" /></a>
-<a href="https://www.behance.net/ashwing3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="ashwing3" height="30" width="30" /></a>
 <a href="https://medium.com/@ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashwxn" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/ashwing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ashwing" height="30" width="30" /></a>
   </p>
