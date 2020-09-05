@@ -27,41 +27,15 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
  
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Currently vibing to : 
 <table width="100%">
-  
-  <tr>
-    
-  <td width="%100">
+  <tr><td width="%100">
   
 &nbsp; [![Music Player](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="100" />
 </tr></td> </table>
 
+### Connect with me through : 
 <table width="100%">
-  
-  <tr>
-    
-  <td width="%100">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwiii&layout=compact&hide=html" alt="ashwiii" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=ashwiii&show_icons=true" alt="ashwiii" /><br>
-  </p></td></tr></table>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <p align = "center">
-  <br>
-  <br>
-  <br>
-    <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br><br>
-  <br>
-  <br> 
-<a href="https://codepen.io/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ashwxn" height="30" width="30" /></a>
+<p align = "center"><a href="https://codepen.io/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://dev.to/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://twitter.com/ashwin_gounder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashwin_gounder" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ashwin2125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashwin2125" height="30" width="30" /></a>
@@ -72,5 +46,4 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
 <a href="https://instagram.com/_a.s_h.w_i.n_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_a.s_h.w_i.n_" height="30" width="30" /></a>
 <a href="https://dribbble.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ashwxn" height="30" width="30" /></a>
 <a href="https://medium.com/@ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashwxn" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ashwing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ashwing" height="30" width="30" /></a>
-  </p>
+<a href="https://www.youtube.com/c/ashwing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ashwing" height="30" width="30" /></a></p></td></tr></table>
