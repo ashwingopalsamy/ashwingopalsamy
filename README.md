@@ -35,9 +35,10 @@ Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CR
 &nbsp; [![Music Player](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="100" />
 </tr></td> </table>
-                                       
+
+<table></tr>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwiii&layout=compact&hide=html" alt="ashwiii" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=ashwiii&show_icons=true" alt="ashwiii" /><br>
-  </p>
+  </p></tr></table>
   <br>
   <br>
   <br>
