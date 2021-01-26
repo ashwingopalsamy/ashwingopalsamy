@@ -4,7 +4,7 @@
 
 [![Twitter: Ashwin Gounder](https://img.shields.io/twitter/follow/ashwin_gounder?style=social)](https://twitter.com/ashwin_gounder)
 [![Linkedin: Ashwin Gounder](https://img.shields.io/badge/-ashwin2125-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin2125/)](https://www.linkedin.com/in/ashwin2125/)
-![GitHub followers](https://img.shields.io/github/followers/ashwiii?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/ashwin2125?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ashwiii.ashwiii)
 
 
