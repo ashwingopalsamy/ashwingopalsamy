@@ -34,7 +34,8 @@ const ashwin = {
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [An Introduction to Spring Framework & Spring Boot](https://ashwxn.codes/an-introduction-to-spring-framework-and-spring-boot)
+- [Holy Land of 'Tamil Eelam'](https://ashwxn.codes/holy-land-of-tamil-eelam)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ashwxn.codes)
