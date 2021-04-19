@@ -13,11 +13,11 @@
 ```javascript
 const ashwin = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, Go, Python, C++],
-  tools or services: [ AWS | Google Cloud | Azure | Linux | MySQL | Git | Jenkins | Unity 3D
-Eclipse | Kaggle | Django | Kubernetes| React | Angular | Docker | Salesforce CRM],
+  code: [Javascript, Java, Python],
+  tools or services: [  Angular | SpringBoot | Microservices | MySQL |
+ Oracle PL/SQL |  AWS | Google Cloud | Azure | Linux | Git | Colab | Kubernetes | Salesforce CRM],
   architecture: ["cloud", "algorithm-design", "object-oriented programming"],
- challenge: "I am doing the #100DaysOfCode challenge focused on full-stack development"
+ currently_learning : "Full Stack Development focused on MEAN Stack"
 }
 ```
 ### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50" height="50"> Skills :
