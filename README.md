@@ -12,12 +12,12 @@
 
 ```javascript
 const ashwin = {
-  pronouns: "he" | "him",
-  code: [Javascript, Java, Python],
-  tools or services: [  Angular | SpringBoot | Microservices | MySQL |
- Oracle PL/SQL |  AWS | Google Cloud | Azure | Linux | Git | Colab | Kubernetes | Salesforce CRM],
-  architecture: ["cloud", "algorithm-design", "object-oriented programming"],
- currently_learning : "Full Stack Development focused on MEAN Stack"
+    pronouns: "he/him",
+    code: ["C++","Java","Javascript","Python"],
+    frameworks: ["Spring","Angular","Express"],
+    skills: [ "Microservices", "MySQL", "Oracle PL / SQL" , "AWS" ," Google Cloud" , "Azure" , "Linux" , "Git" , "Colab" , "Kubernetes" , "Salesforce CRM"],
+    architecture: ["cloud", "algorithm-design", "object-oriented programming"],
+    currently_learning: "Full Stack Development"
 }
 ```
 ### <img src="https://media.giphy.com/media/kfRbG5PRRAbcpMK0qN/giphy.gif" alt="Coder GIF" width="50" height="50">  Languages and Tools:</h3>
