@@ -38,6 +38,7 @@ const ashwin = {
 ### <img src="https://media.giphy.com/media/IyxcGK3GbdCoHOMcln/giphy.gif" width="50" height="50"> Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ Bean XML ClassPath Configuration Error - Spring](https://ashwxn.codes/intellij-bean-xml-classpath-configuration-error-spring)
 - [An Introduction to Spring Framework & Spring Boot](https://ashwxn.codes/an-introduction-to-spring-framework-and-spring-boot)
 <!-- BLOG-POST-LIST:END -->
 
