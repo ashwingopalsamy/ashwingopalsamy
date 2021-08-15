@@ -39,6 +39,9 @@ const ashwin = {
 
 <!-- BLOG-POST-LIST:START -->
 - [IntelliJ Bean XML ClassPath Configuration Error - Spring](https://ashwxn.codes/intellij-bean-xml-classpath-configuration-error-spring)
+- [Basic Employee Referral Etiquettes](https://ashwxn.codes/basic-employee-referral-etiquettes)
+- [Fresher Resume - A brief guide](https://ashwxn.codes/brief-guide-to-fresher-resume)
+- [Holy Land of 'Tamil Eelam'](https://ashwxn.codes/holy-land-of-tamil-eelam)
 - [An Introduction to Spring Framework & Spring Boot](https://ashwxn.codes/an-introduction-to-spring-framework-and-spring-boot)
 <!-- BLOG-POST-LIST:END -->
 
