@@ -2,8 +2,8 @@
 <h3 align="center">A Full Stack Developer from Coimbatore,Tamilnadu,IN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 
-[![Twitter: Ashwin Gounder](https://img.shields.io/twitter/follow/ashwin_gounder?style=social)](https://twitter.com/ashwin_gounder)
-[![Linkedin: Ashwin Gounder](https://img.shields.io/badge/-ashwin2125-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin2125/)](https://www.linkedin.com/in/ashwin2125/)
+[![Twitter: Ashwin G](https://img.shields.io/twitter/follow/ashwin2125?style=social)](https://twitter.com/ashwin2125)
+[![Linkedin: Ashwin G](https://img.shields.io/badge/-ashwin2125-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin2125/)](https://www.linkedin.com/in/ashwin2125/)
 ![GitHub followers](https://img.shields.io/github/followers/ashwin2125?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ashwiii.ashwiii)
 
@@ -48,21 +48,6 @@ const ashwin = {
 ▶ [...more blog articles](https://ashwxn.codes)
 
  <br>
-
-### <img src="https://media.giphy.com/media/chWLik9uddHFYRFEeu/giphy.gif" width="50"> Connect me on : 
-<table width="100%">
-<p align = "center"><a href="https://codepen.io/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ashwxn" height="30" width="30" /></a>
-<a href="https://dev.to/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashwxn" height="30" width="30" /></a>
-<a href="https://twitter.com/ashwin_gounder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashwin_gounder" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ashwin2125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashwin2125" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/ashwin-gounder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashwin-gounder" height="30" width="30" /></a> 
-<a href="https://codesandbox.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashwxn" height="30" width="30" /></a>
-<a href="https://kaggle.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ashwxn" height="30" width="30" /></a>
-<a href="https://fb.com/ashwinyaal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashwinyaal" height="30" width="30" /></a>
-<a href="https://instagram.com/_a.s_h.w_i.n_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_a.s_h.w_i.n_" height="30" width="30" /></a>
-<a href="https://dribbble.com/ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ashwxn" height="30" width="30" /></a>
-<a href="https://medium.com/@ashwxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashwxn" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ashwing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ashwing" height="30" width="30" /></a></p></td></tr></table>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
