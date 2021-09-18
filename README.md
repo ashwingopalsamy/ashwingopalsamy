@@ -39,11 +39,11 @@ const ashwin = {
 ### <img src="https://media.giphy.com/media/IyxcGK3GbdCoHOMcln/giphy.gif" width="50" height="50"> Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Points to remember - Azure AZ900 Fundamentals](https://ashwxn.codes/azure-az900-tips-1)
 - [Building a great Fresher Resume](https://ashwxn.codes/building-a-great-fresher-resume)
 - [Reimagining WhatsApp ! - UI Design Thinking](https://ashwxn.codes/uidesign-whatsapp)
 - [About Me](https://ashwxn.codes/about-me)
 - [Basic Employee Referral Etiquettes](https://ashwxn.codes/basic-employee-referral-etiquettes)
-- [Fresher Resume - A brief guide](https://ashwxn.codes/brief-guide-to-fresher-resume)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ashwxn.codes)
