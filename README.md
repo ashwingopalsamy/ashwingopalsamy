@@ -39,11 +39,11 @@ const ashwin = {
 ### <img src="https://media.giphy.com/media/IyxcGK3GbdCoHOMcln/giphy.gif" width="50" height="50"> Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Azure AI Fundamentals (AI-900) is the easiest of all Microsoft Certifications to clear?](https://ashwxn.codes/why-azure-ai-fundamentals-ai-900-is-the-easiest-of-all-microsoft-certifications-to-clear)
 - [Points to remember - Azure AZ900 Fundamentals](https://ashwxn.codes/azure-az900-tips-1)
 - [Building a great Fresher Resume](https://ashwxn.codes/building-a-great-fresher-resume)
 - [Reimagining WhatsApp ! - UI Design Thinking](https://ashwxn.codes/uidesign-whatsapp)
 - [About Me](https://ashwxn.codes/about-me)
-- [Basic Employee Referral Etiquettes](https://ashwxn.codes/basic-employee-referral-etiquettes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ashwxn.codes)
