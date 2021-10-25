@@ -39,11 +39,11 @@ const ashwin = {
 ### <img src="https://media.giphy.com/media/IyxcGK3GbdCoHOMcln/giphy.gif" width="50" height="50"> Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Generics in Java - Explained !](https://ashwxn.codes/generics-in-java-explained)
 - [JDK vs JRE vs JVM - Key Differences !](https://ashwxn.codes/jdk-vs-jre-vs-jvm-key-differences)
 - [VSCode on Browser - Now, Officially !](https://ashwxn.codes/vscode-on-browser-now-officially)
 - [Sorting Algorithms and it's Time Complexities - Simplified !](https://ashwxn.codes/sorting-algorithms-and-its-time-complexities-simplified)
 - [SaaS vs PaaS vs IaaS - Explained !](https://ashwxn.codes/saas-vs-paas-vs-iaas-explained)
-- [Tweety🕊✨ - Create Stunning Tweets](https://ashwxn.codes/tweety-create-stunning-tweets)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ashwxn.codes)
