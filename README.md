@@ -42,7 +42,7 @@ const ashwin = {
 - [Generics in Java - Explained !](https://ashwxn.codes/generics-in-java-explained)
 - [JDK vs JRE vs JVM - Key Differences !](https://ashwxn.codes/jdk-vs-jre-vs-jvm-key-differences)
 - [VSCode on Browser - Now, Officially !](https://ashwxn.codes/vscode-on-browser-now-officially)
-- [Sorting Algorithms and it's Time Complexities - Simplified !](https://ashwxn.codes/sorting-algorithms-and-its-time-complexities-simplified)
+- [Sorting Algorithms and it&#39;s Time Complexities - Simplified !](https://ashwxn.codes/sorting-algorithms-and-its-time-complexities-simplified)
 - [SaaS vs PaaS vs IaaS - Explained !](https://ashwxn.codes/saas-vs-paas-vs-iaas-explained)
 <!-- BLOG-POST-LIST:END -->
 
