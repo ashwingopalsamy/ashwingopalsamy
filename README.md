@@ -1,5 +1,5 @@
 <h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Ashwin </h1>
-<h3 align="center">A Full Stack Developer from Coimbatore,Tamilnadu,IN :india: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">A Full Stack Developer from Tamilnadu, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 
 [![Twitter: Ashwin G](https://img.shields.io/twitter/follow/ashwin2125?style=social)](https://twitter.com/ashwin2125)
@@ -13,10 +13,10 @@
 ```javascript
 const ashwin = {
     pronouns: "he/him",
-    code: ["C++","Java","Javascript","Python"],
+    code: ["C++","Java","Javascript"],
     frameworks: ["Spring","Angular","Express"],
-    skills: [ "Microservices", "MySQL", "Oracle PL / SQL" , "AWS" ," Google Cloud" , "Azure" , 
-    "Linux" , "Git" , "Colab" , "Kubernetes" , "Salesforce CRM"],
+    skills: [ "Microsoft Azure","Microservices", "MySQL" , "AWS" ," Google Cloud" , "Oracle Cloud", 
+    "Linux" , "Git" , "Docker", "Jenkins" , "Kubernetes" , "Salesforce CRM"],
     architecture: ["cloud", "algorithm-design", "object-oriented programming"],
     currently_learning: "Full Stack Development"
 }
