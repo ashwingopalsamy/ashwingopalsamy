@@ -50,6 +50,7 @@ const ashwin = {
 
  <br>
  
+ ### <img src="https://media.giphy.com/media/fng8OzU2DvO2NCGeLY/giphy.gif" width="50" height="50"> Profile Statistics :
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwin2125)](https://git.io/streak-stats)
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
