@@ -49,6 +49,8 @@ const ashwin = {
 ▶ [...more blog articles](https://ashwxn.codes)
 
  <br>
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwin2125)](https://git.io/streak-stats)
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
