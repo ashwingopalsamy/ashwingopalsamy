@@ -14,13 +14,13 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > A little more about me in my way...  
 ```javascript
 const ashwin = {
-    pronouns: "he/him",
-    code: ["C++","Javascript","GoLang"],
-    frameworks: ["React", "Express" ],
-    skills: [ "Microservices", "AWS" ," Google Cloud" , "Oracle Cloud", 
-    "Linux" , "Git" , "Docker", "Jenkins" , "Kubernetes" , "Kafka", "DynamoDB", "MongoDB", "Terraform"],
-    architecture: ["cloud", "algorithm-design", "object-oriented programming"],
-    currently_learning: "Full Stack Development","DevOps"
+  pronouns: "he/him",
+  code: ["Golang","Typescript","Python"],
+  frameworks: ["React", "Express" ],
+  skills: [ "Microservices", "AWS" ,"Kubernetes" , "Docker", 
+    "Linux" , "Git" , "Docker", "Prometheus" , "Grafana" , "Terraform", "DynamoDB", "Aurora", "Grafana"],
+  architecture: ["cloud", "system-design", "object-oriented programming"],
+  currently_learning: "Full Stack Development, Cloud Engineering, Platform Engineering"
 }
 ```
  
