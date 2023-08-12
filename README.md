@@ -1,55 +1,27 @@
-<h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Ashwin / 
-அஷ்வின்</h1>
-<h3 align="center">Software Engineer from Tamilnadu, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+Hello hello! **I'm Ashwin Gopalsamy**. 
+I build **internet-scale software systems.**
 
+---
 
-[![Twitter: Ashwin G](https://img.shields.io/twitter/follow/ashwin2125?style=social)](https://twitter.com/ashwin2125)
-[![Linkedin: Ashwin G](https://img.shields.io/badge/-ashwin2125-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin2125/)](https://www.linkedin.com/in/ashwin2125/)
-![GitHub followers](https://img.shields.io/github/followers/ashwin2125?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=ashwiii.ashwiii)
- <br>
- ### <img src="https://media.giphy.com/media/fng8OzU2DvO2NCGeLY/giphy.gif" width="50" height="50"> Profile Statistics :
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwin2125)](https://git.io/streak-stats)
-<br>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > A little more about me in my way...  
-```javascript
-const ashwin = {
-  pronouns: "he/him",
-  code: ["Golang","Typescript","Python"],
-  frameworks: ["React", "Express" ],
-  skills: [ "Microservices", "AWS" ,"Kubernetes" , "Docker", 
-    "Linux" , "Git" , "Docker", "Prometheus" , "Grafana" , "Terraform", "DynamoDB", "Aurora", "Grafana"],
-  architecture: ["cloud", "system-design", "object-oriented programming"],
-  currently_learning: "Full Stack Development, Cloud Engineering, Platform Engineering"
-}
-```
- 
-### <img src="https://media.giphy.com/media/kfRbG5PRRAbcpMK0qN/giphy.gif" alt="Coder GIF" width="50" height="50">  Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> <br>
+In-case if you're going to take a glance on my profile, I'll save your time. 
+I've structured my repos and contributions in the below format.
 
-<!-- ### <img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="50"> Currently vibing to 
-<table width="100%">
-  <tr><td width="%100">
-  
-&nbsp; [![Music Player](https://novatorem.ashwiii.vercel.app/api/spotify)](https://open.spotify.com/user/o1btbyhr9x88md7vhaottrpnx)
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="110" />
-</tr></td> </table>
- <br> -->
- 
-### <img src="https://media.giphy.com/media/IyxcGK3GbdCoHOMcln/giphy.gif" width="50" height="50"> Latest Blog Articles
+| **repo prefix**  	| **contribution type**                                	|
+|------------------	|------------------------------------------------------	|
+| **opnsrc**-      	| all my open-source contributions (team & individual) 	|
+| **build**-       	| all the projects i've built and made my hands dirty  	|
+| **learn**-       	| all my learnings captured beautifully                	|
+| **practice**-    	| all my learnings converted into code                 	|
+| **backup**-      	| all the random stuff that doesn't matter to you      	|
 
-<!-- BLOG-POST-LIST:START -->
-- [Generics in Java - Explained !](https://ashwxn.codes/generics-in-java-explained)
-- [JDK vs JRE vs JVM - Key Differences !](https://ashwxn.codes/jdk-vs-jre-vs-jvm-key-differences)
-- [VSCode on Browser - Now, Officially !](https://ashwxn.codes/vscode-on-browser-now-officially)
-- [Sorting Algorithms and it&#39;s Time Complexities - Simplified !](https://ashwxn.codes/sorting-algorithms-and-its-time-complexities-simplified)
-- [SaaS vs PaaS vs IaaS - Explained !](https://ashwxn.codes/saas-vs-paas-vs-iaas-explained)
-<!-- BLOG-POST-LIST:END -->
+---
 
-▶ [...more blog articles](https://ashwxn.codes)
+I am an experienced software solutions architect who builds in **Go Programming + AWS** Stack. <br>
+I specialize in building services that run on **Event-driven Architecture** using **CQRS & Microservices**. <br>
 
- <br>
- 
+Apart from the coding chops, being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across teams & geographies.
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+---
+Interested? Let's connect & discuss: [LinkedIn](https://wwww.linkedin.com/in/ashwin2125) | [Twitter (𝕏)](https://www.x.com/ashwin2125)
 
+In the meantime, feel free to checkout my [blogs](https://hashnode.com/@ashwin2125), [leetcode](https://leetcode.com/ashwin2125/) and [stack-overflow](https://stackoverflow.com/users/12538720/ashwin2125)
