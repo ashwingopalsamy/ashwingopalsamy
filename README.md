@@ -18,7 +18,7 @@ If you wanna go-through my contributions, I'll save your time. I've structured m
 I am an experienced software solutions architect who builds in **Go Programming + AWS** Stack. <br>
 I specialize in building services that run on **Event-driven Architecture** using **CQRS & Microservices**. <br>
 
-Apart from the coding chops, being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across teams & geographies.
+Apart from the coding chops, being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across cross-functional teams & geographies.
 
 ---
 Interested? Let's connect & discuss: [LinkedIn](https://wwww.linkedin.com/in/ashwin2125) | [Twitter (𝕏)](https://www.x.com/ashwin2125)
