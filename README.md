@@ -3,8 +3,7 @@ I build **internet-scale software systems.**
 
 ---
 
-In-case if you're going to take a glance on my profile, I'll save your time. 
-I've structured my repos and contributions in the below format.
+If you wanna go-through my contributions, I'll save your time. I've structured my repos in the below format.
 
 | **repo prefix**  	| **contribution type**                                	|
 |------------------	|------------------------------------------------------	|
