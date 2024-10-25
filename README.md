@@ -7,9 +7,9 @@ I specialize in building services that run on **Event-driven Architecture** usin
 Apart from the coding chops, being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across cross-functional teams & geographies.
 
 ---
-Interested? Let's connect & discuss: [LinkedIn](https://www.linkedin.com/in/ashwin2125) | [Twitter (𝕏)](https://www.x.com/ashwin2125)
+Interested? Let's connect & discuss: [**LinkedIn**](https://www.linkedin.com/in/ashwin2125) | [**𝕏**](https://www.x.com/ashwin2125)
 
-In the meantime, feel free to checkout my [blogs](ashwingopalsamy.hashnode.dev), [leetcode](https://leetcode.com/ashwin2125/) and [stack-overflow](https://stackoverflow.com/users/12538720/ashwin2125)
+In the meantime, feel free to checkout my [**blogs**](ashwingopalsamy.hashnode.dev), [**leetcode**](https://leetcode.com/ashwin2125/), [**website**](ashwingopalsamy.in), [**resume**](rsm.io/ashwingopalsamy) and [**stack-overflow**](https://stackoverflow.com/users/12538720/ashwin2125) 
 
 ---
 
