@@ -1,7 +1,7 @@
 Hello! **I'm Ashwin Gopalsamy**. 
 I build **internet-scale software systems.**
 
-I'm a software engineer focused on **backend development** and **distributed systems**, with an eye for crafting solutions that make a difference.
+I focus on **backend development** and **distributed systems**, with an eye for crafting products that make a difference.
 
 Apart from the coding chops, being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across cross-functional teams & geographies.
 
