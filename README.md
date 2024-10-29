@@ -26,3 +26,5 @@ Note: Not all my repos may have been structured this way.
 | `backup-`      | Miscellaneous and random stuff                    |
 
 ---
+
+[![Ashwin Gopalsamy profile views](https://u8views.com/api/v1/github/profiles/47941624/views/day-week-month-total-count.svg)](https://u8views.com/github/ashwingopalsamy)
