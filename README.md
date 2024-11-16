@@ -9,7 +9,7 @@ Apart from the coding chops, being bilingually proficient in **English & German*
 
 #### 🌍 Interested? Let's connect & discuss: 
 
-[**linkedin**](https://www.linkedin.com/in/ashwin2125) • [**blogs**](https://dev.to/ashwingopalsamy) • [**website**](https://ashwingopalsamy.in) • [**resume**](https://rsm.io/ashwingopalsamy) • [**leetcode**](https://leetcode.com/ashwin2125/)  • [**𝕏**](https://www.x.com/ashwin2125) • [**stack-overflow**](https://stackoverflow.com/users/12538720/ashwin2125) 
+[**linkedin**](https://www.linkedin.com/in/ashwingopalsamy) • [**blogs**](https://dev.to/ashwingopalsamy) • [**website**](https://ashwingopalsamy.in) • [**resume**](https://rsm.io/ashwingopalsamy) • [**leetcode**](https://leetcode.com/ashwin2125/)  • [**𝕏**](https://www.x.com/ashwin2125) • [**stack-overflow**](https://stackoverflow.com/users/12538720/ashwin2125) 
 
 ---
 
