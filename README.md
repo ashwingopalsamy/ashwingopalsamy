@@ -1,29 +1,18 @@
-Hello! **I'm [Ashwin Gopalsamy](https://github.com/ashwingopalsamy/)**. 
+Hello! I'm [**Ashwin** Gopalsamy](https://github.com/ashwingopalsamy/). 
 I build **internet-scale software systems.**
 
 I focus on **backend development** and **distributed systems**, with an eye for crafting products that make a difference.
 
-Apart from the coding chops, being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across cross-functional teams & geographies.
+
+I also write at [Substack](https://ashwingopalsamy.substack.com), build open-source at [@ash3in](github.com/ash3in) and occasionally design at [figma](https://www.figma.com/@ashwin2125). 
+
+Being bilingually proficient in **English & German**, I bring effective collaboration, diverse & meaningful contributions across cross-functional teams & geographies.
 
 ---
 
 #### 🌍 Interested? Let's connect & discuss: 
 
-[**linkedin**](https://www.linkedin.com/in/ashwingopalsamy) • [**blogs**](https://ashwingopalsamy.substack.com) • [**website**](https://ashwingopalsamy.in) • [**resume**](https://rsm.io/ashwingopalsamy) • [**leetcode**](https://leetcode.com/ashwin2125/)  • [**𝕏**](https://www.x.com/ashwin2125) • [**stack-overflow**](https://stackoverflow.com/users/12538720/ashwin2125) • [**dev.to**](https://dev.to/ashwingopalsamy)
-
----
-
-#### 📁 My Repos, Structured for You
-
-Note: Not all my repos may have been structured this way.
-
-| **Prefix**     | **Type**                                          |
-|----------------|---------------------------------------------------|
-| `opnsrc-`      | Open-source contributions                         |
-| `build-`       | Projects and experiments                          |
-| `learn-`       | Documented learning materials                     |
-| `practice-`    | Coding exercises and hands-on practice            |
-| `backup-`      | Miscellaneous and random stuff                    |
+[**linkedin**](https://www.linkedin.com/in/ashwingopalsamy) • [**blog**](https://ashwingopalsamy.substack.com) • [**website**](https://ashwingopalsamy.in) • [**resume**](https://rsm.io/ashwingopalsamy) • [**𝕏**](https://www.x.com/ashwin2125) • [**bsky**](https://bsky.app/profile/ashwingopalsamy.substack.com)
 
 ---
 
