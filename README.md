@@ -3,6 +3,8 @@ I build **internet-scale software systems.**
 
 I focus on **backend development** and **distributed systems**, with an eye for crafting products that make a difference.
 
+I've made open-source contributions to [@google](https://github.com/google/uuid), [@github](https://github.com/github/docs), [@postman](https://github.com/postmanlabs/postman-collection), [@gofrs](https://github.com/gofrs/uuid), [@usebruno](https://github.com/usebruno/bruno),[ @conventionalcommit](https://github.com/conventionalcommit).
+
 
 I also write at [Substack](https://ashwingopalsamy.substack.com), build open-source at [@ash3in](github.com/ash3in) and occasionally design at [figma](https://www.figma.com/@ashwin2125). 
 
